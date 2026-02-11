@@ -22,8 +22,8 @@ const imageData: ImageItem[] = [
   {
     id: "1",
     uri: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI62WgndVlc9YFvSEa8vuulAlczmjv383NVw&s",
-    title: "John Doe",
-    email: "john.doe@email.com",
+    title: "Batman",
+    email: "Bat.man@email.com",
     NIM: "00000189375",
   },
   {
